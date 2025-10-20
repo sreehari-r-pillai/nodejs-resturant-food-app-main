@@ -145,8 +145,8 @@ nodejs-resturant-food-app/
 ## 👨‍💻 Author
 **Your Name**  
 Backend Developer | Node.js | MongoDB | Express  
-📧 your.email@example.com  
-🔗 [GitHub](https://github.com/YOUR-USERNAME) | [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
+📧 sreeharirpillai2002@gmail.com 
+🔗https://github.com/sreehari-r-pillai 
 
 ---
 
