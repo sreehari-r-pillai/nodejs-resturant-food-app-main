@@ -143,7 +143,7 @@ nodejs-resturant-food-app/
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
+**Sreehari R Pillai**  
 Backend Developer | Node.js | MongoDB | Express  
 📧 sreeharirpillai2002@gmail.com 
 🔗https://github.com/sreehari-r-pillai 
